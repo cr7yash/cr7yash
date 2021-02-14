@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Yash
+
 <a href="mailto:yashaqua@gmail.com">
   <img align="left" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.10.0/icons/gmail.svg" />
 </a>
@@ -26,12 +27,13 @@ Here are some ideas to get you started:
 
 <br />
 
+### About Me 🚀
+I am passionate about design, AI and building web applications.
 - 🔭 I’m currently working on Full stack deep learning and serverless applications
 - 🌱 I’m currently learning React.js, python and Mongo DB
 - 👯 I’m looking to collaborate on projects of all sizes and business verticals
 
-
-
+### Some stats about me
 ![cr7yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=cr7yash&show_icons=true&theme=synthwave)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cr7yash)](https://github.com/anuraghazra/github-readme-stats)
