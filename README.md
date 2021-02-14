@@ -33,12 +33,5 @@ I am passionate about design, AI and building web applications.
 - 🌱 I’m currently learning React.js, python and Mongo DB
 - 👯 I’m looking to collaborate on projects of all sizes and business verticals
 
-### Some stats about me
+
 ![cr7yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=cr7yash&show_icons=true&theme=synthwave)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cr7yash)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![cr7yash's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cr7yash)](https://github.com/anuraghazra/github-readme-stats)
-<br />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=cr7yash.cr7yash&style=plastic)
