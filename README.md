@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **cr7yash/cr7yash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Yash
+<a href="mailto:yashaqua@gmail.com">
+  <img align="left" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.10.0/icons/gmail.svg" />
+</a>
+
+<a href="https://www.linkedin.com/in/yash-srivastava-aba296104/">
+  <img align="left" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.10.0/icons/linkedin.svg" />
+</a>
+
+<br />
+
+- 🔭 I’m currently working on Full stack deep learning and serverless applications
+- 🌱 I’m currently learning React.js, python and Mongo DB
+- 👯 I’m looking to collaborate on projects of all sizes and business verticals
+
+
+
+![cr7yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=cr7yash&show_icons=true&theme=synthwave)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cr7yash)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![cr7yash's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cr7yash)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=cr7yash.cr7yash&style=plastic)
